@@ -1,0 +1,71 @@
+body {
+  padding-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 19px;
+}
+p, .jumbotron p {
+  font-size: 16px;
+}
+
+a {
+  color: #fff;
+}
+h2 i {
+  color: #fff;
+}
+a:hover,
+a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar.dark {
+  color: #fff;
+  background-color: #292B2C;
+}
+.navbar.dark a {
+  color: #fff;
+}
+.navbar.dark .active a,
+.navbar.dark .active a:hover,
+.navbar.dark .active a:focus {
+  color: #292B2C;
+  background-color: #fff;
+}
+.navbar.dark ul li a:hover,
+.navbar.dark ul li a:focus {
+  color: #fff;
+}
+.jumbotron {
+  height: 100%;
+  margin-bottom: 0px;
+  background-color: #ffffff;
+}
+.container.portfolio {
+  padding-bottom: 35px;
+}
+.container.portfolio .portfolio-item {
+  margin-top: 15px;
+}
+.jumbotron.contact {
+  padding: 15px 0px;
+  background-color: #292B2C;
+  color: #fff;
+}
+.jumbotron.contact p {
+  color:#f2f2f2;
+}
+.list-inline.social li {
+  font-size: 30px;
+}
+footer {
+  background-color: #fff;
+  width: 100%;
+  font-size:13px;
+  padding: 10px 0px;
+}
