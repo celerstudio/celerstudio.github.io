@@ -1,1 +1,0 @@
-Celerstudio portfolio site inspired by [Responsive Full-page Parallax Slider](https://codepen.io/takaneichinose/pen/grKQJx)
